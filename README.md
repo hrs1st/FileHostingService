@@ -1,3 +1,3 @@
 # FileHostingService
 
-An implemention of a task manager, supporting diffrenet types of tasks, personal account logins and saves
+Implemention of a file hosting service using object oriented programming, server and client relationship and sqlite database
